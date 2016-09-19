@@ -1,0 +1,32 @@
+{
+  "intents": [
+    {
+      "intent": "sendtoPushBulletIntent",
+      "slots": [
+        {
+          "name": "query",
+          "type": "QUERY_LIST"
+        },
+        {
+          "name": "number",
+          "type": "AMAZON.US_FIRST_NAME"
+        }
+      ]
+    },
+  	{
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

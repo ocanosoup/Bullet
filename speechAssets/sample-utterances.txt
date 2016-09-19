@@ -1,0 +1,13 @@
+sendtoPushBulletIntent send a text to {number} saying {query}
+sendtoPushBulletIntent send a text to {number} that says {query}
+sendtoPushBulletIntent send {number} a text saying {query}
+sendtoPushBulletIntent send {number} a text that says {query}
+sendtoPushBulletIntent say {query} to {number}
+sendtoPushBulletIntent send {query} to {number}
+sendtoPushBulletIntent send {number} {query}
+sendtoPushBulletIntent send a message to {number} saying {query}
+sendtoPushBulletIntent send a message to {number} that says {query}
+sendtoPushBulletIntent text {number} a message saying {query}
+sendtoPushBulletIntent text {number} a message that says {query}
+sendtoPushBulletIntent text {query} to {number}
+sendtoPushBulletIntent text {number} {query}
